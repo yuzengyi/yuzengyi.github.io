@@ -406,7 +406,7 @@ Ammo().then((Ammo) => {
     });
   }
 
-  //create "Life is miracle"
+  //create "Life is a miracle"
   function loadEngineerText() {
     var text_loader = new THREE.FontLoader();
 
@@ -420,7 +420,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry('Life is miracle', {
+      var geometry = new THREE.TextGeometry('Life is a miracle', {
         font: font,
         size: 1.5,
         height: 0.5,
