@@ -13,7 +13,7 @@ body{
 .one{
 	width: 1519px;
 	height: 837px;
-	background-image: url(../img/banner-bg.png);
+	background-image: url(../img/allbackground.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -120,7 +120,7 @@ body{
 	width: 1519.2px;
 	height: 690.53px;
 	text-align: center;
-	background-image: url(../img/footer-bg.png);
+	background-image: url(../img/alllast.jpg);
 	background-size: cover;
 }
 .inputa{
