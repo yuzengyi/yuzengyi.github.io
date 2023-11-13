@@ -1,0 +1,11 @@
+.selectbar{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    line-height: 150px;
+    font-size: x-large;
+    border:solid;
+    border-radius: 20px;
+    border-width: 1px;
+    background-color: aliceblue;
+}
